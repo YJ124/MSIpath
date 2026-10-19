@@ -1,0 +1,1 @@
+"""MSIpath probabilistic path model."""

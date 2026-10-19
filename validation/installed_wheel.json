@@ -1,0 +1,7 @@
+{
+  "state": "COMPLETE",
+  "version": "MSIpath 1.0.0",
+  "package_import": "isolated wheel installation outside source tree",
+  "tests": ".....                                                                    [100%]",
+  "demo": "D017_N MSS 10.0\nD017_B30_P20 MSI 31.18783282536289"
+}

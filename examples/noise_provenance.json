@@ -1,0 +1,166 @@
+{
+  "sha256": "b879b1f149c020901c49873f2a198cac18b0ad8d5c0bc32c541510676417e4e1",
+  "training_donors": [
+    {
+      "donor": "NA19038",
+      "normal_fragments_used": 5082
+    },
+    {
+      "donor": "HG03246",
+      "normal_fragments_used": 5038
+    },
+    {
+      "donor": "HG03557",
+      "normal_fragments_used": 5053
+    },
+    {
+      "donor": "HG03484",
+      "normal_fragments_used": 5175
+    },
+    {
+      "donor": "HG01988",
+      "normal_fragments_used": 5016
+    },
+    {
+      "donor": "NA19312",
+      "normal_fragments_used": 5029
+    },
+    {
+      "donor": "NA18934",
+      "normal_fragments_used": 5110
+    },
+    {
+      "donor": "HG03366",
+      "normal_fragments_used": 5269
+    },
+    {
+      "donor": "HG00743",
+      "normal_fragments_used": 5157
+    },
+    {
+      "donor": "HG01097",
+      "normal_fragments_used": 5095
+    },
+    {
+      "donor": "HG01926",
+      "normal_fragments_used": 5135
+    },
+    {
+      "donor": "HG01256",
+      "normal_fragments_used": 5206
+    },
+    {
+      "donor": "HG01462",
+      "normal_fragments_used": 5141
+    },
+    {
+      "donor": "HG01251",
+      "normal_fragments_used": 5172
+    },
+    {
+      "donor": "HG01464",
+      "normal_fragments_used": 5241
+    },
+    {
+      "donor": "HG02301",
+      "normal_fragments_used": 5214
+    },
+    {
+      "donor": "HG01848",
+      "normal_fragments_used": 5005
+    },
+    {
+      "donor": "HG00463",
+      "normal_fragments_used": 5082
+    },
+    {
+      "donor": "NA19006",
+      "normal_fragments_used": 5135
+    },
+    {
+      "donor": "HG02057",
+      "normal_fragments_used": 5207
+    },
+    {
+      "donor": "NA19081",
+      "normal_fragments_used": 5113
+    },
+    {
+      "donor": "NA18941",
+      "normal_fragments_used": 5022
+    },
+    {
+      "donor": "NA18638",
+      "normal_fragments_used": 5182
+    },
+    {
+      "donor": "HG01846",
+      "normal_fragments_used": 5185
+    },
+    {
+      "donor": "HG00367",
+      "normal_fragments_used": 5152
+    },
+    {
+      "donor": "NA11881",
+      "normal_fragments_used": 5201
+    },
+    {
+      "donor": "HG00109",
+      "normal_fragments_used": 5286
+    },
+    {
+      "donor": "NA06985",
+      "normal_fragments_used": 5131
+    },
+    {
+      "donor": "NA12813",
+      "normal_fragments_used": 5126
+    },
+    {
+      "donor": "HG00096",
+      "normal_fragments_used": 5200
+    },
+    {
+      "donor": "NA20815",
+      "normal_fragments_used": 5120
+    },
+    {
+      "donor": "HG01631",
+      "normal_fragments_used": 5214
+    },
+    {
+      "donor": "HG04235",
+      "normal_fragments_used": 5176
+    },
+    {
+      "donor": "NA21126",
+      "normal_fragments_used": 5197
+    },
+    {
+      "donor": "HG04216",
+      "normal_fragments_used": 5062
+    },
+    {
+      "donor": "HG02597",
+      "normal_fragments_used": 5073
+    },
+    {
+      "donor": "HG03985",
+      "normal_fragments_used": 5202
+    },
+    {
+      "donor": "HG03815",
+      "normal_fragments_used": 5168
+    },
+    {
+      "donor": "HG04106",
+      "normal_fragments_used": 5092
+    },
+    {
+      "donor": "HG03673",
+      "normal_fragments_used": 5244
+    }
+  ],
+  "limitation": "MAP genotype residual estimator, not direct biochemical stutter measurement; mononucleotide indel/stutter not separately identifiable"
+}

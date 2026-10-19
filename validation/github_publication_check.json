@@ -1,0 +1,26 @@
+{
+  "implementation_version": "1.0.0",
+  "unit_tests_passed": 5,
+  "demo_results": {
+    "D017_N": {
+      "call": "MSS",
+      "score": 10.0
+    },
+    "D017_B30_P20": {
+      "call": "MSI",
+      "score": 31.18783282536289
+    }
+  },
+  "released_core_source_unchanged": true,
+  "included_supplements": [
+    "end-to-end purity 20/40/60/80%",
+    "robustness purity 60% plotting inputs"
+  ],
+  "patient_WBC_data_included": false,
+  "publication_changes": [
+    "portable plotting data paths",
+    "plotting optional dependencies",
+    "updated README"
+  ],
+  "historical_reports": "Original release audit and report retained as historical snapshots; see README for later supplements."
+}

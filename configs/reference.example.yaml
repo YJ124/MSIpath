@@ -1,0 +1,15 @@
+# Resolve paths relative to this file. Replace with your jointly phased inputs.
+sample_metadata: ../data/reference_donors.tsv
+population_column: population
+loci: ../data/loci.tsv
+ancestry_markers: ../data/ancestry_snps.tsv
+reference_fasta: ../data/GRCh38.fa
+gfa: [../data/str_graph.gfa]
+registries: [../data/str_registry.jsonl]
+joint_phased_vcfs: [../data/joint_snp_str.vcf.gz]
+exclude_samples: []
+flank_bp: 5000
+max_panel_snps: 200000
+phase_provenance:
+  scope: joint_snp_str_chromosome
+  source: REPLACE_WITH_DOCUMENTED_JOINT_PHASE_SOURCE

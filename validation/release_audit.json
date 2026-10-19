@@ -1,0 +1,43 @@
+{
+  "state": "COMPLETE",
+  "tables": [
+    {
+      "table": "end_to_end/performance_metrics.tsv",
+      "rows": 45,
+      "purity_conversion_and_scores_verified": true
+    },
+    {
+      "table": "end_to_end/sample_scores.tsv",
+      "rows": 9360,
+      "purity_conversion_and_scores_verified": true
+    },
+    {
+      "table": "mechanism/performance_metrics.tsv",
+      "rows": 45,
+      "purity_conversion_and_scores_verified": true
+    },
+    {
+      "table": "mechanism/sample_scores.tsv",
+      "rows": 2610,
+      "purity_conversion_and_scores_verified": true
+    },
+    {
+      "table": "robustness/performance_metrics.tsv",
+      "rows": 216,
+      "purity_conversion_and_scores_verified": true
+    },
+    {
+      "table": "robustness/sample_scores.tsv",
+      "rows": 12240,
+      "purity_conversion_and_scores_verified": true
+    }
+  ],
+  "resource_executions": 270,
+  "report_pages": 11,
+  "figure_sets": 14,
+  "unit_tests_passed": 5,
+  "source_and_installed_wheel_tested": true,
+  "exact_numerical_parity_checks": 3,
+  "pdf_visual_review": "All 11 pages rendered; original 9 pages reviewed and added ROC/PR pages reviewed after final rebuild",
+  "purity_conversion": "p=2*source fraction; original model scores unchanged"
+}

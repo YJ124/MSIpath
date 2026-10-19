@@ -1,0 +1,16 @@
+{
+  "state": "COMPLETE",
+  "test_donors": 200,
+  "test_instances": 1800,
+  "new_grid_instances": 800,
+  "new_ART": 700,
+  "reused_from_robustness": 100,
+  "score_rows": 16560,
+  "final_purity_grid": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "updated": 1792409765.9724846
+}

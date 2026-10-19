@@ -1,0 +1,201 @@
+donor	donor_index	population	role	sample	condition	burden	f	label	paired_normal	primary_test	reuse	parent	depth	group	direction	germline_overrides	germline_steps	forced_edits	haplotype1_fraction	p	b	pilot_overlap
+HG02322	16	AFR	test	D017_P60_X10	P60	0.3	0.3	1	D017_PAIR_X10	True		D017_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG02322	16	AFR	test	D017_P60_X20	P60	0.3	0.3	1	D017_PAIR_X20	True		D017_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG02322	16	AFR	test	D017_P60_X30	P60	0.3	0.3	1	D017_PAIR	True	D017_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG02322	16	AFR	test	D017_P60_X60	P60	0.3	0.3	1	D017_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19031	17	AFR	test	D018_P60_X10	P60	0.3	0.3	1	D018_PAIR_X10	True		D018_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19031	17	AFR	test	D018_P60_X20	P60	0.3	0.3	1	D018_PAIR_X20	True		D018_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19031	17	AFR	test	D018_P60_X30	P60	0.3	0.3	1	D018_PAIR	True	D018_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19031	17	AFR	test	D018_P60_X60	P60	0.3	0.3	1	D018_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02851	18	AFR	test	D019_P60_X10	P60	0.3	0.3	1	D019_PAIR_X10	True		D019_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02851	18	AFR	test	D019_P60_X20	P60	0.3	0.3	1	D019_PAIR_X20	True		D019_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02851	18	AFR	test	D019_P60_X30	P60	0.3	0.3	1	D019_PAIR	True	D019_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02851	18	AFR	test	D019_P60_X60	P60	0.3	0.3	1	D019_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03054	19	AFR	test	D020_P60_X10	P60	0.3	0.3	1	D020_PAIR_X10	True		D020_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03054	19	AFR	test	D020_P60_X20	P60	0.3	0.3	1	D020_PAIR_X20	True		D020_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03054	19	AFR	test	D020_P60_X30	P60	0.3	0.3	1	D020_PAIR	True	D020_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03054	19	AFR	test	D020_P60_X60	P60	0.3	0.3	1	D020_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02840	20	AFR	test	D021_P60_X10	P60	0.3	0.3	1	D021_PAIR_X10	True		D021_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02840	20	AFR	test	D021_P60_X20	P60	0.3	0.3	1	D021_PAIR_X20	True		D021_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02840	20	AFR	test	D021_P60_X30	P60	0.3	0.3	1	D021_PAIR	True	D021_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02840	20	AFR	test	D021_P60_X60	P60	0.3	0.3	1	D021_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03370	21	AFR	test	D022_P60_X10	P60	0.3	0.3	1	D022_PAIR_X10	True		D022_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03370	21	AFR	test	D022_P60_X20	P60	0.3	0.3	1	D022_PAIR_X20	True		D022_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03370	21	AFR	test	D022_P60_X30	P60	0.3	0.3	1	D022_PAIR	True	D022_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03370	21	AFR	test	D022_P60_X60	P60	0.3	0.3	1	D022_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18867	22	AFR	test	D023_P60_X10	P60	0.3	0.3	1	D023_PAIR_X10	True		D023_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18867	22	AFR	test	D023_P60_X20	P60	0.3	0.3	1	D023_PAIR_X20	True		D023_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18867	22	AFR	test	D023_P60_X30	P60	0.3	0.3	1	D023_PAIR	True	D023_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18867	22	AFR	test	D023_P60_X60	P60	0.3	0.3	1	D023_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19207	23	AFR	test	D024_P60_X10	P60	0.3	0.3	1	D024_PAIR_X10	True		D024_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19207	23	AFR	test	D024_P60_X20	P60	0.3	0.3	1	D024_PAIR_X20	True		D024_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19207	23	AFR	test	D024_P60_X30	P60	0.3	0.3	1	D024_PAIR	True	D024_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19207	23	AFR	test	D024_P60_X60	P60	0.3	0.3	1	D024_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA20294	24	AFR	test	D025_P60_X10	P60	0.3	0.3	1	D025_PAIR_X10	True		D025_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20294	24	AFR	test	D025_P60_X20	P60	0.3	0.3	1	D025_PAIR_X20	True		D025_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20294	24	AFR	test	D025_P60_X30	P60	0.3	0.3	1	D025_PAIR	True	D025_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20294	24	AFR	test	D025_P60_X60	P60	0.3	0.3	1	D025_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02837	25	AFR	test	D026_P60_X10	P60	0.3	0.3	1	D026_PAIR_X10	True		D026_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02837	25	AFR	test	D026_P60_X20	P60	0.3	0.3	1	D026_PAIR_X20	True		D026_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02837	25	AFR	test	D026_P60_X30	P60	0.3	0.3	1	D026_PAIR	True	D026_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02837	25	AFR	test	D026_P60_X60	P60	0.3	0.3	1	D026_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01369	72	AMR	test	D073_P60_X10	P60	0.3	0.3	1	D073_PAIR_X10	True		D073_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01369	72	AMR	test	D073_P60_X20	P60	0.3	0.3	1	D073_PAIR_X20	True		D073_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01369	72	AMR	test	D073_P60_X30	P60	0.3	0.3	1	D073_PAIR	True	D073_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01369	72	AMR	test	D073_P60_X60	P60	0.3	0.3	1	D073_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01075	73	AMR	test	D074_P60_X10	P60	0.3	0.3	1	D074_PAIR_X10	True		D074_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01075	73	AMR	test	D074_P60_X20	P60	0.3	0.3	1	D074_PAIR_X20	True		D074_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01075	73	AMR	test	D074_P60_X30	P60	0.3	0.3	1	D074_PAIR	True	D074_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01075	73	AMR	test	D074_P60_X60	P60	0.3	0.3	1	D074_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01072	74	AMR	test	D075_P60_X10	P60	0.3	0.3	1	D075_PAIR_X10	True		D075_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01072	74	AMR	test	D075_P60_X20	P60	0.3	0.3	1	D075_PAIR_X20	True		D075_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01072	74	AMR	test	D075_P60_X30	P60	0.3	0.3	1	D075_PAIR	True	D075_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01072	74	AMR	test	D075_P60_X60	P60	0.3	0.3	1	D075_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01356	75	AMR	test	D076_P60_X10	P60	0.3	0.3	1	D076_PAIR_X10	True		D076_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01356	75	AMR	test	D076_P60_X20	P60	0.3	0.3	1	D076_PAIR_X20	True		D076_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01356	75	AMR	test	D076_P60_X30	P60	0.3	0.3	1	D076_PAIR	True	D076_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01356	75	AMR	test	D076_P60_X60	P60	0.3	0.3	1	D076_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01935	76	AMR	test	D077_P60_X10	P60	0.3	0.3	1	D077_PAIR_X10	True		D077_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01935	76	AMR	test	D077_P60_X20	P60	0.3	0.3	1	D077_PAIR_X20	True		D077_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01935	76	AMR	test	D077_P60_X30	P60	0.3	0.3	1	D077_PAIR	True	D077_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01935	76	AMR	test	D077_P60_X60	P60	0.3	0.3	1	D077_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19657	77	AMR	test	D078_P60_X10	P60	0.3	0.3	1	D078_PAIR_X10	True		D078_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19657	77	AMR	test	D078_P60_X20	P60	0.3	0.3	1	D078_PAIR_X20	True		D078_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19657	77	AMR	test	D078_P60_X30	P60	0.3	0.3	1	D078_PAIR	True	D078_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19657	77	AMR	test	D078_P60_X60	P60	0.3	0.3	1	D078_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01947	78	AMR	test	D079_P60_X10	P60	0.3	0.3	1	D079_PAIR_X10	True		D079_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01947	78	AMR	test	D079_P60_X20	P60	0.3	0.3	1	D079_PAIR_X20	True		D079_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01947	78	AMR	test	D079_P60_X30	P60	0.3	0.3	1	D079_PAIR	True	D079_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01947	78	AMR	test	D079_P60_X60	P60	0.3	0.3	1	D079_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01130	79	AMR	test	D080_P60_X10	P60	0.3	0.3	1	D080_PAIR_X10	True		D080_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01130	79	AMR	test	D080_P60_X20	P60	0.3	0.3	1	D080_PAIR_X20	True		D080_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01130	79	AMR	test	D080_P60_X30	P60	0.3	0.3	1	D080_PAIR	True	D080_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01130	79	AMR	test	D080_P60_X60	P60	0.3	0.3	1	D080_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01378	80	AMR	test	D081_P60_X10	P60	0.3	0.3	1	D081_PAIR_X10	True		D081_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01378	80	AMR	test	D081_P60_X20	P60	0.3	0.3	1	D081_PAIR_X20	True		D081_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01378	80	AMR	test	D081_P60_X30	P60	0.3	0.3	1	D081_PAIR	True	D081_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01378	80	AMR	test	D081_P60_X60	P60	0.3	0.3	1	D081_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02299	81	AMR	test	D082_P60_X10	P60	0.3	0.3	1	D082_PAIR_X10	True		D082_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG02299	81	AMR	test	D082_P60_X20	P60	0.3	0.3	1	D082_PAIR_X20	True		D082_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG02299	81	AMR	test	D082_P60_X30	P60	0.3	0.3	1	D082_PAIR	True	D082_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG02299	81	AMR	test	D082_P60_X60	P60	0.3	0.3	1	D082_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00978	128	EAS	test	D129_P60_X10	P60	0.3	0.3	1	D129_PAIR_X10	True		D129_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00978	128	EAS	test	D129_P60_X20	P60	0.3	0.3	1	D129_PAIR_X20	True		D129_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00978	128	EAS	test	D129_P60_X30	P60	0.3	0.3	1	D129_PAIR	True	D129_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00978	128	EAS	test	D129_P60_X60	P60	0.3	0.3	1	D129_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00674	129	EAS	test	D130_P60_X10	P60	0.3	0.3	1	D130_PAIR_X10	True		D130_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00674	129	EAS	test	D130_P60_X20	P60	0.3	0.3	1	D130_PAIR_X20	True		D130_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00674	129	EAS	test	D130_P60_X30	P60	0.3	0.3	1	D130_PAIR	True	D130_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00674	129	EAS	test	D130_P60_X60	P60	0.3	0.3	1	D130_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01858	130	EAS	test	D131_P60_X10	P60	0.3	0.3	1	D131_PAIR_X10	True		D131_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01858	130	EAS	test	D131_P60_X20	P60	0.3	0.3	1	D131_PAIR_X20	True		D131_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01858	130	EAS	test	D131_P60_X30	P60	0.3	0.3	1	D131_PAIR	True	D131_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01858	130	EAS	test	D131_P60_X60	P60	0.3	0.3	1	D131_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00410	131	EAS	test	D132_P60_X10	P60	0.3	0.3	1	D132_PAIR_X10	True		D132_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00410	131	EAS	test	D132_P60_X20	P60	0.3	0.3	1	D132_PAIR_X20	True		D132_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00410	131	EAS	test	D132_P60_X30	P60	0.3	0.3	1	D132_PAIR	True	D132_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00410	131	EAS	test	D132_P60_X60	P60	0.3	0.3	1	D132_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00634	132	EAS	test	D133_P60_X10	P60	0.3	0.3	1	D133_PAIR_X10	True		D133_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00634	132	EAS	test	D133_P60_X20	P60	0.3	0.3	1	D133_PAIR_X20	True		D133_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00634	132	EAS	test	D133_P60_X30	P60	0.3	0.3	1	D133_PAIR	True	D133_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00634	132	EAS	test	D133_P60_X60	P60	0.3	0.3	1	D133_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA18547	133	EAS	test	D134_P60_X10	P60	0.3	0.3	1	D134_PAIR_X10	True		D134_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18547	133	EAS	test	D134_P60_X20	P60	0.3	0.3	1	D134_PAIR_X20	True		D134_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18547	133	EAS	test	D134_P60_X30	P60	0.3	0.3	1	D134_PAIR	True	D134_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA18547	133	EAS	test	D134_P60_X60	P60	0.3	0.3	1	D134_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA19067	134	EAS	test	D135_P60_X10	P60	0.3	0.3	1	D135_PAIR_X10	True		D135_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19067	134	EAS	test	D135_P60_X20	P60	0.3	0.3	1	D135_PAIR_X20	True		D135_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19067	134	EAS	test	D135_P60_X30	P60	0.3	0.3	1	D135_PAIR	True	D135_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19067	134	EAS	test	D135_P60_X60	P60	0.3	0.3	1	D135_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19088	135	EAS	test	D136_P60_X10	P60	0.3	0.3	1	D136_PAIR_X10	True		D136_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19088	135	EAS	test	D136_P60_X20	P60	0.3	0.3	1	D136_PAIR_X20	True		D136_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19088	135	EAS	test	D136_P60_X30	P60	0.3	0.3	1	D136_PAIR	True	D136_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA19088	135	EAS	test	D136_P60_X60	P60	0.3	0.3	1	D136_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02391	136	EAS	test	D137_P60_X10	P60	0.3	0.3	1	D137_PAIR_X10	True		D137_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02391	136	EAS	test	D137_P60_X20	P60	0.3	0.3	1	D137_PAIR_X20	True		D137_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02391	136	EAS	test	D137_P60_X30	P60	0.3	0.3	1	D137_PAIR	True	D137_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02391	136	EAS	test	D137_P60_X60	P60	0.3	0.3	1	D137_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02355	137	EAS	test	D138_P60_X10	P60	0.3	0.3	1	D138_PAIR_X10	True		D138_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02355	137	EAS	test	D138_P60_X20	P60	0.3	0.3	1	D138_PAIR_X20	True		D138_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02355	137	EAS	test	D138_P60_X30	P60	0.3	0.3	1	D138_PAIR	True	D138_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG02355	137	EAS	test	D138_P60_X60	P60	0.3	0.3	1	D138_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00183	184	EUR	test	D185_P60_X10	P60	0.3	0.3	1	D185_PAIR_X10	True		D185_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00183	184	EUR	test	D185_P60_X20	P60	0.3	0.3	1	D185_PAIR_X20	True		D185_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00183	184	EUR	test	D185_P60_X30	P60	0.3	0.3	1	D185_PAIR	True	D185_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00183	184	EUR	test	D185_P60_X60	P60	0.3	0.3	1	D185_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00375	185	EUR	test	D186_P60_X10	P60	0.3	0.3	1	D186_PAIR_X10	True		D186_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00375	185	EUR	test	D186_P60_X20	P60	0.3	0.3	1	D186_PAIR_X20	True		D186_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00375	185	EUR	test	D186_P60_X30	P60	0.3	0.3	1	D186_PAIR	True	D186_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00375	185	EUR	test	D186_P60_X60	P60	0.3	0.3	1	D186_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01515	186	EUR	test	D187_P60_X10	P60	0.3	0.3	1	D187_PAIR_X10	True		D187_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01515	186	EUR	test	D187_P60_X20	P60	0.3	0.3	1	D187_PAIR_X20	True		D187_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01515	186	EUR	test	D187_P60_X30	P60	0.3	0.3	1	D187_PAIR	True	D187_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01515	186	EUR	test	D187_P60_X60	P60	0.3	0.3	1	D187_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA20819	187	EUR	test	D188_P60_X10	P60	0.3	0.3	1	D188_PAIR_X10	True		D188_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA20819	187	EUR	test	D188_P60_X20	P60	0.3	0.3	1	D188_PAIR_X20	True		D188_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA20819	187	EUR	test	D188_P60_X30	P60	0.3	0.3	1	D188_PAIR	True	D188_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA20819	187	EUR	test	D188_P60_X60	P60	0.3	0.3	1	D188_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01766	188	EUR	test	D189_P60_X10	P60	0.3	0.3	1	D189_PAIR_X10	True		D189_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01766	188	EUR	test	D189_P60_X20	P60	0.3	0.3	1	D189_PAIR_X20	True		D189_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01766	188	EUR	test	D189_P60_X30	P60	0.3	0.3	1	D189_PAIR	True	D189_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01766	188	EUR	test	D189_P60_X60	P60	0.3	0.3	1	D189_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG01686	189	EUR	test	D190_P60_X10	P60	0.3	0.3	1	D190_PAIR_X10	True		D190_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01686	189	EUR	test	D190_P60_X20	P60	0.3	0.3	1	D190_PAIR_X20	True		D190_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01686	189	EUR	test	D190_P60_X30	P60	0.3	0.3	1	D190_PAIR	True	D190_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01686	189	EUR	test	D190_P60_X60	P60	0.3	0.3	1	D190_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA12340	190	EUR	test	D191_P60_X10	P60	0.3	0.3	1	D191_PAIR_X10	True		D191_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA12340	190	EUR	test	D191_P60_X20	P60	0.3	0.3	1	D191_PAIR_X20	True		D191_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA12340	190	EUR	test	D191_P60_X30	P60	0.3	0.3	1	D191_PAIR	True	D191_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA12340	190	EUR	test	D191_P60_X60	P60	0.3	0.3	1	D191_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG00344	191	EUR	test	D192_P60_X10	P60	0.3	0.3	1	D192_PAIR_X10	True		D192_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00344	191	EUR	test	D192_P60_X20	P60	0.3	0.3	1	D192_PAIR_X20	True		D192_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00344	191	EUR	test	D192_P60_X30	P60	0.3	0.3	1	D192_PAIR	True	D192_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00344	191	EUR	test	D192_P60_X60	P60	0.3	0.3	1	D192_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00242	192	EUR	test	D193_P60_X10	P60	0.3	0.3	1	D193_PAIR_X10	True		D193_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00242	192	EUR	test	D193_P60_X20	P60	0.3	0.3	1	D193_PAIR_X20	True		D193_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00242	192	EUR	test	D193_P60_X30	P60	0.3	0.3	1	D193_PAIR	True	D193_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG00242	192	EUR	test	D193_P60_X60	P60	0.3	0.3	1	D193_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01770	193	EUR	test	D194_P60_X10	P60	0.3	0.3	1	D194_PAIR_X10	True		D194_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01770	193	EUR	test	D194_P60_X20	P60	0.3	0.3	1	D194_PAIR_X20	True		D194_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01770	193	EUR	test	D194_P60_X30	P60	0.3	0.3	1	D194_PAIR	True	D194_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG01770	193	EUR	test	D194_P60_X60	P60	0.3	0.3	1	D194_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04076	240	SAS	test	D241_P60_X10	P60	0.3	0.3	1	D241_PAIR_X10	True		D241_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04076	240	SAS	test	D241_P60_X20	P60	0.3	0.3	1	D241_PAIR_X20	True		D241_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04076	240	SAS	test	D241_P60_X30	P60	0.3	0.3	1	D241_PAIR	True	D241_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04076	240	SAS	test	D241_P60_X60	P60	0.3	0.3	1	D241_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03868	241	SAS	test	D242_P60_X10	P60	0.3	0.3	1	D242_PAIR_X10	True		D242_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03868	241	SAS	test	D242_P60_X20	P60	0.3	0.3	1	D242_PAIR_X20	True		D242_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03868	241	SAS	test	D242_P60_X30	P60	0.3	0.3	1	D242_PAIR	True	D242_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03868	241	SAS	test	D242_P60_X60	P60	0.3	0.3	1	D242_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA21095	242	SAS	test	D243_P60_X10	P60	0.3	0.3	1	D243_PAIR_X10	True		D243_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA21095	242	SAS	test	D243_P60_X20	P60	0.3	0.3	1	D243_PAIR_X20	True		D243_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA21095	242	SAS	test	D243_P60_X30	P60	0.3	0.3	1	D243_PAIR	True	D243_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA21095	242	SAS	test	D243_P60_X60	P60	0.3	0.3	1	D243_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03793	243	SAS	test	D244_P60_X10	P60	0.3	0.3	1	D244_PAIR_X10	True		D244_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03793	243	SAS	test	D244_P60_X20	P60	0.3	0.3	1	D244_PAIR_X20	True		D244_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03793	243	SAS	test	D244_P60_X30	P60	0.3	0.3	1	D244_PAIR	True	D244_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03793	243	SAS	test	D244_P60_X60	P60	0.3	0.3	1	D244_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20876	244	SAS	test	D245_P60_X10	P60	0.3	0.3	1	D245_PAIR_X10	True		D245_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20876	244	SAS	test	D245_P60_X20	P60	0.3	0.3	1	D245_PAIR_X20	True		D245_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20876	244	SAS	test	D245_P60_X30	P60	0.3	0.3	1	D245_PAIR	True	D245_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA20876	244	SAS	test	D245_P60_X60	P60	0.3	0.3	1	D245_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04194	245	SAS	test	D246_P60_X10	P60	0.3	0.3	1	D246_PAIR_X10	True		D246_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04194	245	SAS	test	D246_P60_X20	P60	0.3	0.3	1	D246_PAIR_X20	True		D246_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04194	245	SAS	test	D246_P60_X30	P60	0.3	0.3	1	D246_PAIR	True	D246_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04194	245	SAS	test	D246_P60_X60	P60	0.3	0.3	1	D246_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04209	246	SAS	test	D247_P60_X10	P60	0.3	0.3	1	D247_PAIR_X10	True		D247_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04209	246	SAS	test	D247_P60_X20	P60	0.3	0.3	1	D247_PAIR_X20	True		D247_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04209	246	SAS	test	D247_P60_X30	P60	0.3	0.3	1	D247_PAIR	True	D247_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG04209	246	SAS	test	D247_P60_X60	P60	0.3	0.3	1	D247_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+HG03716	247	SAS	test	D248_P60_X10	P60	0.3	0.3	1	D248_PAIR_X10	True		D248_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03716	247	SAS	test	D248_P60_X20	P60	0.3	0.3	1	D248_PAIR_X20	True		D248_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03716	247	SAS	test	D248_P60_X30	P60	0.3	0.3	1	D248_PAIR	True	D248_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG03716	247	SAS	test	D248_P60_X60	P60	0.3	0.3	1	D248_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04002	248	SAS	test	D249_P60_X10	P60	0.3	0.3	1	D249_PAIR_X10	True		D249_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04002	248	SAS	test	D249_P60_X20	P60	0.3	0.3	1	D249_PAIR_X20	True		D249_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04002	248	SAS	test	D249_P60_X30	P60	0.3	0.3	1	D249_PAIR	True	D249_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+HG04002	248	SAS	test	D249_P60_X60	P60	0.3	0.3	1	D249_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	True
+NA21143	249	SAS	test	D250_P60_X10	P60	0.3	0.3	1	D250_PAIR_X10	True		D250_P60_X60	10	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA21143	249	SAS	test	D250_P60_X20	P60	0.3	0.3	1	D250_PAIR_X20	True		D250_P60_X60	20	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA21143	249	SAS	test	D250_P60_X30	P60	0.3	0.3	1	D250_PAIR	True	D250_B30_F30		30	depth_fraction_grid	mixed				0.5	0.6	0.3	False
+NA21143	249	SAS	test	D250_P60_X60	P60	0.3	0.3	1	D250_PAIR_X60	True			60	depth_fraction_grid	mixed				0.5	0.6	0.3	False

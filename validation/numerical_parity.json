@@ -1,0 +1,39 @@
+{
+  "state": "COMPLETE",
+  "checks": [
+    {
+      "sample": "D017_N",
+      "scope": "model_common",
+      "input_mode": "saved_evidence",
+      "score": 10.0,
+      "expected_score": 10.0,
+      "absolute_difference": 0.0,
+      "call": "MSS",
+      "callable_loci": 15,
+      "seconds": 6.508699781999999
+    },
+    {
+      "sample": "D017_B30_P20",
+      "scope": "model_common",
+      "input_mode": "saved_evidence",
+      "score": 31.18783282536289,
+      "expected_score": 31.18783282536289,
+      "absolute_difference": 0.0,
+      "call": "MSI",
+      "callable_loci": 15,
+      "seconds": 6.654952849999997
+    },
+    {
+      "sample": "D017_B30_P20",
+      "scope": "panel200",
+      "input_mode": "alignment",
+      "score": 344.86862346232283,
+      "expected_score": 344.86862346232283,
+      "absolute_difference": 0.0,
+      "call": "MSI",
+      "callable_loci": 200,
+      "seconds": 55.165514798
+    }
+  ],
+  "finished": 1791881885.5142257
+}

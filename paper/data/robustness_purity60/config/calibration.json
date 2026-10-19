@@ -1,0 +1,10082 @@
+[
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": 183.45837191693346
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": 6.853563513309767
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": 232.5275056724527
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": 7.041719301483789
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 238.27944569109758
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 5.379290787669214
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 236.58527759302302
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 6.855165622166127
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": 159.0984020140894
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": 6.176593402492777
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": 179.15902519420194
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 186.78723060516006
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 189.99219978460604
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": 140.24230661014684
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": 175.94981540439198
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 177.30048114917986
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 194.61615437288674
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": 146.71182807841979
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": 12.126555779654035
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": 176.03872846278506
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": 17.749784178148772
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 180.7647699729933
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 15.954498757943398
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 174.51546030812517
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 15.807638471518898
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": 151.47751108528857
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": 4.844003976134874
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": 205.45097549116014
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 204.68332738041636
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 211.22004874702674
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": 149.09182345318422
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": 194.3647061882422
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 205.997053346823
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 195.34712270272868
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": 161.87278948918566
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": 12.944365748321584
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": 232.76820333864413
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 231.15887327125213
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 227.33596272605237
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": 178.1354077682197
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": 16.282946840217843
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": 263.97677674360693
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": 19.26927401718694
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 257.04988079403375
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 268.2978584685177
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": 109.78949845023838
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": 4.143674976627308
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": 116.54344618663818
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": 2.968030457080596
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 123.83910782902414
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 3.8391078290241474
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 121.11682440252302
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 1.1168244025230254
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": 121.49337595505548
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": 122.92950569898505
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 130.2855203195031
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 128.4944591098121
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": 158.0553711197575
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": 180.73378111879452
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": 0.9785140804086837
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 173.45810757216339
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 3.458107572163388
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 183.8803364157034
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 6.285689577711552
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": 186.0168346903045
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": 9.646178108343127
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": 236.0315027637684
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 245.4586299642669
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 260.9741153322122
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 20.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": 72.07030687372927
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": 3.044024613729745
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": 112.75491430563254
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": 10.978522669885466
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 113.325543942378
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 12.112162091625299
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 129.09628513148402
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 17.732871411981638
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": 129.09354449234684
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": 4.561503815588478
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": 172.63909566872718
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": 4.909659539317561
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 167.0417176015822
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 7.508056966683955
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 171.4338830172942
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 4.365839622275281
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": 213.50567376786893
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": 8.915764544199698
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": 277.31420258987686
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 288.45272920349373
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 290.34935014442465
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": 149.44976115860612
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": 9.476792338539067
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": 191.00426204410556
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 193.66185422839732
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 196.2035188361615
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": 89.29895907548809
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": 110.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 110.46679640931606
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 110.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": 123.15241321962105
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": 144.17258848914787
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 144.3311346997496
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 142.17177575452016
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": 60.64300389086013
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": 83.34011727862881
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 86.53300633987133
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 86.47181773278317
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": 56.58850725915097
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": 69.6039746189386
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 60.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 67.95598720034079
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": 111.62381217840164
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": 120.72778778971542
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 116.55041585091206
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 115.45131326688056
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": 93.56377923770073
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": 115.33011391632022
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 122.90901394986189
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 129.1115837261221
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": 96.35170760691756
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": 6.185474769746425
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": 131.3689317358882
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 153.7231944039101
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 156.72887817746687
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": 128.06022166658593
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": 9.476667624446856
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": 142.89440047752177
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 146.05318917289782
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 141.9981274893382
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": 82.03022848328688
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": 0.6793507117978107
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": 97.65983687095992
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 102.49419294433818
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 100.0746654783478
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": 70.63165866483672
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": 115.170506235413
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 119.69050116986958
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 118.10379729383968
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": 109.15546753171984
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": 129.5744750307952
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 115.43774609998196
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 132.5241837666948
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": 120.56423424079156
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": 9.33565679333652
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": 138.82297019825958
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 143.57681043824533
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 148.14607092169084
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": 92.84072771085924
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": 124.16573944848065
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 121.69672281573501
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 131.16202054339325
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": 89.08975160750725
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": 125.66073221196041
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 125.81483665660647
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 126.04622899733093
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": 98.87975596776334
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": 135.36729572433
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 131.45664536412374
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 140.0213005700974
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": 78.28251541006642
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": 120.98133035425157
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 120.94870652791442
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 119.98398035958864
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": 80.46731042321872
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": 110.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 110.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 110.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": 88.16755459714072
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": 6.127413345933509
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": 117.75122872372111
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 121.8500213400819
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 122.71086822778256
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": 80.59671807335053
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": 117.61778224606488
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 120.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 120.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": 147.11313946938282
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": 171.45772128078596
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 173.68049094298738
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 173.5854932699881
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": 66.9538469083262
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": 2.3654884167706145
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": 90.05331945282232
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 92.2184007245207
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 97.01155755088664
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": 117.37020152488773
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": 135.6741210721022
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 139.13090206163048
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 148.91022769214533
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": 101.99000186743189
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": 121.31580237430774
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 129.71397254225715
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 138.29627578689787
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": 97.61389984148325
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": 127.24488724336878
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 129.4165806982828
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 10.0
+  },
+  {
+    "method": "MSIpath",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 134.41410634805464
+  },
+  {
+    "method": "MSIpath",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 10.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 2.91
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 0.2222
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 0.0753
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": 1.32
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02813",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 3.3
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 0.1875
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 0.0413
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 3.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 0.2432
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 0.0474
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02813",
+    "score": 0.0138
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": 3.95
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19456",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 1.15
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 0.0833
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 0.0576
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 3.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 0.1951
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 0.0544
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19456",
+    "score": 0.0451
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 2.84
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 0.2667
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 0.0244
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 1.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.1892
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.0465
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02334",
+    "score": 0.008
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": 4.11
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19256",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 1.74
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 0.1429
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 3.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 0.119
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 0.0622
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 13.33
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19256",
+    "score": 0.0392
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03539",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 2.25
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 0.0588
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 1.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 0.0811
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 0.0489
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03539",
+    "score": 0.019
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": 1.43
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19448",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 1.65
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 0.0667
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 0.0156
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 14.29
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19391",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 3.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 0.225
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 0.0558
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19448",
+    "score": 0.0025
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": 1.61
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19391",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 2.84
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 0.25
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 0.0471
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 8.33
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": 20.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 2.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 0.1
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 0.0523
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19391",
+    "score": 0.042
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": 1.59
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": 20.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19037",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 1.13
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 0.0651
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 6.67
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 11.11
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 3.52
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 0.1579
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 0.0648
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 6.67
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 13.33
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19037",
+    "score": 0.0221
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": 1.3
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01578",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 0.56
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 0.0714
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 1.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 0.1304
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 0.0287
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 6.67
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01578",
+    "score": 0.015
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": 1.82
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19780",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0387
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 1.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 0.0298
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19780",
+    "score": 0.0163
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": 1.28
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01961",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 1.12
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 0.0297
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.1316
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.0383
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01961",
+    "score": 0.0194
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": 1.52
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01241",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 0.0861
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01139",
+    "score": 0.2273
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.1591
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.0481
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01241",
+    "score": 0.0435
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": 1.41
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01139",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 1.09
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 0.018
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 1.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 0.102
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 0.0378
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01139",
+    "score": 0.0186
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01941",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 1.15
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 0.0336
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 0.093
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 0.0357
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01941",
+    "score": 0.0333
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": 1.41
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01101",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 1.68
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 0.0667
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 1.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 0.225
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 0.0513
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 13.33
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01101",
+    "score": 0.0348
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": 2.56
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01136",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.2667
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0268
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 2.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 0.125
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 0.0429
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01136",
+    "score": 0.0288
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02025",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 1.14
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0714
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0232
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0976
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.035
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02025",
+    "score": 0.0202
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": 1.35
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19080",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.54
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0357
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00464",
+    "score": 0.0316
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 2.02
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0976
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0338
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19080",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": 1.45
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00464",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.57
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.0858
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.0465
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.0358
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00464",
+    "score": 0.008
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02058",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.6
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.0714
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.0091
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0698
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0316
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02058",
+    "score": 0.0146
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02364",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0815
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.1026
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.0314
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02364",
+    "score": 0.0114
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 0.0223
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 11.11
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.0889
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.045
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01872",
+    "score": 0.015
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA19011",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0385
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0034
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 0.1463
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 0.0422
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA19011",
+    "score": 0.0349
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA18621",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 1.17
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0244
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0732
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0299
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA18621",
+    "score": 0.0177
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": 1.23
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20524",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 1.13
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 0.05
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 0.0375
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.087
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.033
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20524",
+    "score": 0.009
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": 1.56
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG01334",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 1.1
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0523
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.0488
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.0485
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG01334",
+    "score": 0.0216
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": 3.08
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20587",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 2.87
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 0.034
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 2.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.1026
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.0429
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20587",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": 1.72
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA12872",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 0.55
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 0.0556
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 0.0296
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 12.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 1.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 0.0476
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 0.0256
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA12872",
+    "score": 0.0253
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": 1.72
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00263",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0625
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 0.1489
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 0.0447
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00263",
+    "score": 0.0112
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00188",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.1667
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0374
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.1111
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.0354
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00188",
+    "score": 0.0039
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": 1.3
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00285",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0714
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0325
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.1
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0585
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00285",
+    "score": 0.0057
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG00243",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 1.1
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.1
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.0599
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0952
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0362
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG00243",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG04177",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 1.1
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 0.0452
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.1277
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.0359
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG04177",
+    "score": 0.0201
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": 1.25
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03589",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 0.0624
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.1463
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.0464
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03589",
+    "score": 0.0012
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA21090",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.56
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.05
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.004
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 0.0976
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 0.0408
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 7.14
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA21090",
+    "score": 0.0353
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03771",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 0.55
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 0.0588
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 0.0309
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.5
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.1282
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.0435
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03771",
+    "score": 0.0151
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG02600",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 1.12
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.1282
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.0368
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG02600",
+    "score": 0.0019
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": 1.3
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03861",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.026
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 1.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.093
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.0395
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03861",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "NA20866",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 1.72
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 0.0833
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 0.0461
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 11.11
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 33.33
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 30,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.093
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0286
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "NA20866",
+    "score": 0.0092
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": 0.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 10,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": 1.27
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": 25.0
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 20,
+    "donor": "HG03919",
+    "score": null
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 1.0
+  },
+  {
+    "method": "mSINGS",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 0.1042
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "panel200",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 0.0376
+  },
+  {
+    "method": "MSIsensor-pro",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 6.67
+  },
+  {
+    "method": "MSIsensor2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 6.67
+  },
+  {
+    "method": "mSINGS",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 0.0
+  },
+  {
+    "method": "MANTIS2",
+    "scope": "model_common",
+    "depth": 60,
+    "donor": "HG03919",
+    "score": 0.004
+  }
+]

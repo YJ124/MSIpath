@@ -1,0 +1,54 @@
+{
+  "files": [
+    {
+      "source": "experiment/reports/performance_metrics.tsv",
+      "sha256": "7fa7097887454b3ac3f13ffaeb704766584d86d5eb776cc53d99c29d2c5cfc67",
+      "exported_rows": 45
+    },
+    {
+      "source": "experiment/reports/sample_scores.tsv",
+      "sha256": "7f304263cde93f255fca35f3a996f772b4b7494754a40fd798f88cbfb2a323cf",
+      "exported_rows": 9360
+    },
+    {
+      "source": "experiment3/reports/performance_metrics.tsv",
+      "sha256": "fa7eea5a2af0109f8ebf03d856c6cf03ffae12cf238f2afa4ae1038cb4458f2e",
+      "exported_rows": 45
+    },
+    {
+      "source": "experiment3/reports/sample_scores.tsv",
+      "sha256": "80a90cf4bb4346f3aa692f8e39fb08de451d54dffe6811e05b03b782e7e6db21",
+      "exported_rows": 2610
+    },
+    {
+      "source": "experiment4/reports/performance_metrics.tsv",
+      "sha256": "4c79c38ab86b26379de90b76cd21fa0b40a40297094be87c2a29eb89a6721f5c",
+      "exported_rows": 216
+    },
+    {
+      "source": "experiment4/reports/sample_scores.tsv",
+      "sha256": "9a91a33eb2dc95c01354b588682c914be783197fd8e0d2507afb3e73898fccf5",
+      "exported_rows": 12240
+    },
+    {
+      "source": "unified_resources/reports/resource_comparison.tsv",
+      "sha256": "5a46a38c6386450cf7d70ae56d44d4a3504efa5713662c72fa9889dc370d06ac",
+      "exported_rows": 9
+    },
+    {
+      "source": "unified_resources/reports/measurements.tsv",
+      "sha256": "9972e0766ba3229ee6f8970f6804d2e87bfa94836f9ec7f062723a6db4f0748b",
+      "exported_rows": 270
+    }
+  ],
+  "method_mapping": {
+    "MSIpath-B": "MSIpath",
+    "MSIsensor-pro": "MSIsensor-pro",
+    "MSIsensor2": "MSIsensor2",
+    "mSINGS": "mSINGS",
+    "MANTIS2_paired": "MANTIS2"
+  },
+  "parameter_conversion": "tumor purity = 2 * source abnormal molecule fraction; clonal heterozygous, diploid copy-neutral simulation",
+  "no_scores_or_calls_changed": true,
+  "original_results_preserved": true
+}

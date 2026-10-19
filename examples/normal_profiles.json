@@ -1,0 +1,94 @@
+{
+  "__global__": {
+    "stutter_rate": 0.04647584694884521,
+    "indel_rate": 0.0001
+  },
+  "A:short": {
+    "stutter_rate": 0.0580639400643726,
+    "indel_rate": 0.0001
+  },
+  "AAT:short": {
+    "stutter_rate": 0.015168357359283685,
+    "indel_rate": 0.0001
+  },
+  "ACA:short": {
+    "stutter_rate": 0.015257993088918322,
+    "indel_rate": 0.0006894287590282338
+  },
+  "AG:short": {
+    "stutter_rate": 0.015257993088918322,
+    "indel_rate": 0.0001
+  },
+  "AT:short": {
+    "stutter_rate": 0.028540595789950066,
+    "indel_rate": 0.0001
+  },
+  "ATT:short": {
+    "stutter_rate": 0.04454466945152831,
+    "indel_rate": 0.0001
+  },
+  "CA:short": {
+    "stutter_rate": 0.0213246613678693,
+    "indel_rate": 0.0001
+  },
+  "CAA:short": {
+    "stutter_rate": 0.015627386331151717,
+    "indel_rate": 0.0001
+  },
+  "CAAA:short": {
+    "stutter_rate": 0.01511901332102967,
+    "indel_rate": 0.0001
+  },
+  "CT:short": {
+    "stutter_rate": 0.014848513402186968,
+    "indel_rate": 0.0001
+  },
+  "CTC:short": {
+    "stutter_rate": 0.015069989283023739,
+    "indel_rate": 0.0001
+  },
+  "CTT:short": {
+    "stutter_rate": 0.024275047897276792,
+    "indel_rate": 0.0001
+  },
+  "GA:short": {
+    "stutter_rate": 0.008934226633764938,
+    "indel_rate": 0.0001
+  },
+  "GT:short": {
+    "stutter_rate": 0.015012926373938987,
+    "indel_rate": 0.0001
+  },
+  "GTT:short": {
+    "stutter_rate": 0.015419989034122498,
+    "indel_rate": 0.0001
+  },
+  "GTTT:short": {
+    "stutter_rate": 0.02953132408172403,
+    "indel_rate": 0.0001
+  },
+  "T:short": {
+    "stutter_rate": 0.04774184957362315,
+    "indel_rate": 0.0001
+  },
+  "TAT:short": {
+    "stutter_rate": 0.015440480713902064,
+    "indel_rate": 0.0001
+  },
+  "TC:short": {
+    "stutter_rate": 0.04854059578995006,
+    "indel_rate": 0.0001
+  },
+  "TG:short": {
+    "stutter_rate": 0.0049813340781184575,
+    "indel_rate": 0.0001
+  },
+  "TTAT:short": {
+    "stutter_rate": 0.028067184173406725,
+    "indel_rate": 0.0001
+  },
+  "TTCC:short": {
+    "stutter_rate": 0.01543022807066574,
+    "indel_rate": 0.0001
+  }
+}

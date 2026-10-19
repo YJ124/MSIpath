@@ -1,0 +1,14 @@
+[
+  {
+    "sample": "D017_N",
+    "donor": "HG02322",
+    "expected_common15_score": 10.0,
+    "expected_call": "MSS"
+  },
+  {
+    "sample": "D017_B30_P20",
+    "donor": "HG02322",
+    "expected_common15_score": 31.18783282536289,
+    "expected_call": "MSI"
+  }
+]

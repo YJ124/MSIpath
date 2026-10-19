@@ -1,0 +1,39 @@
+{
+  "metric_source": "/mnt/d/MSIpath/experiment/B_v1/purity_p40_p80_v1/reports/performance_metrics.tsv",
+  "metric_source_sha256": "3e36730e2bddaf9b4d0f8c914f964b71b13f4404d6adeaf72b37d267ac51715d",
+  "sample_source_sha256": "f5ad95e6c94bc50d5bb33f63e57bf1b05b8157af86d39bc6b849653a74584f26",
+  "font_regular": "/mnt/c/Windows/Fonts/arial.ttf",
+  "font_bold": "/mnt/c/Windows/Fonts/arialbd.ttf",
+  "verified_bars": 72,
+  "denominator_per_bar": 200,
+  "purity_grid": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "panels": [
+    {
+      "panel": "A",
+      "scope": "panel200",
+      "burden": 0.1
+    },
+    {
+      "panel": "B",
+      "scope": "panel200",
+      "burden": 0.3
+    },
+    {
+      "panel": "C",
+      "scope": "model_common",
+      "burden": 0.1
+    },
+    {
+      "panel": "D",
+      "scope": "model_common",
+      "burden": 0.3
+    }
+  ],
+  "error_bars": "Wilson 95% confidence intervals",
+  "unresolved_samples": "Retained in the denominator; not counted as detected MSI"
+}

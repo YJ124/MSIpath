@@ -1,0 +1,29 @@
+{
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.14.1",
+    "PyYAML": "6.0.2",
+    "matplotlib": "3.9.2",
+    "pysam": "0.22.1",
+    "pytest": "8.3.3"
+  },
+  "upstream": {
+    "msisensor-pro": {
+      "url": "https://github.com/xjtu-omics/msisensor-pro.git",
+      "commit": "2063de1588cf65dd310a7b95ba5efc6f64c7515a"
+    },
+    "msisensor2": {
+      "url": "https://github.com/niu-lab/msisensor2.git",
+      "commit": "2822778b5fbe8ad30671c3f4e98738e30111822d"
+    },
+    "MANTIS2": {
+      "url": "https://github.com/nh13/MANTIS2.git",
+      "commit": "7a4318124b72bb1d057a356d106ca8f3d87d6326"
+    },
+    "msings": {
+      "url": "https://github.com/sheenamt/msings.git",
+      "commit": "aeed1525aa55fb0c68bfbe8353582dc449cd286f"
+    }
+  }
+}

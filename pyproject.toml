@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "msipath"
+version = "1.0.0"
+description = "Personalized haplotype-aware microsatellite instability inference"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.23,<3", "scipy>=1.9,<2", "PyYAML>=6,<7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7,<9", "build>=1"]
+report = ["matplotlib>=3.6,<4", "scikit-learn>=1.1,<2", "reportlab>=4,<6", "pypdf>=4,<7", "pandas>=1.5,<3", "Pillow>=9"]
+
+[project.scripts]
+msipath = "msipath.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

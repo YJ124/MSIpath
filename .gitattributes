@@ -1,0 +1,5 @@
+# Preserve the exact bytes of the validated source and research artifacts.
+* -text
+*.pdf binary
+*.png binary
+*.npz binary

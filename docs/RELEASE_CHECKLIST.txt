@@ -1,0 +1,20 @@
+MSIpath 1.0.0 release
+
+Default algorithm: single altered allele / fixed shift, positive clipped log-BF sum, independent normal rank calibration.
+Former alternative decision models are not exposed by the default CLI.
+
+Validated:
+- Five targeted unit tests, both from source and from a separately installed wheel.
+- Normal and MSI saved-evidence examples reproduce frozen 15-locus scores exactly.
+- A fresh BAM-to-call 200-locus run reproduces the frozen score, callable count and decision exactly.
+- The installed wheel runs both self-contained examples using matching calibration signatures.
+- Final paper tables retain only the five requested methods and convert purity numerically.
+- Unified resource results include all 270 measured executions; uncallable runs remain visible.
+- PDF pages rendered and inspected for text, table and figure layout.
+
+Publish the contents of this repository directory or the accompanying GitHub ZIP.
+The ZIP includes code, examples, paper tables/figures/reports and validation metadata.
+It excludes raw sequencing reads, alignment files, reference FASTA, external tool binaries,
+local environments, caches and build directories.
+
+No GitHub repository, DOI, authorship list or publication acceptance is invented by this release.
