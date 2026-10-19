@@ -3,3 +3,6 @@
 *.pdf binary
 *.png binary
 *.npz binary
+
+# Exclude generated experiment reports from GitHub language statistics.
+paper/*.html linguist-generated=true
