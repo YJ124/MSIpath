@@ -18,7 +18,7 @@ MSIpath	panel200	allele_imbalance	allele_imbalance	30	0.0	0	mixed	50	FPR	1.0	0.0
 MSIpath	panel200	common_normal	N	30	0.0	0	mixed	50	FPR	1.0	0.02	0.003539259271646375	0.1049544358963745	0.0	0.98	0.02	0.003539259271646375	0.1049544358963745	0.0	0.98										
 MSIpath	panel200	novel_normal	novel_normal	30	0.0	0	mixed	50	FPR	1.0	1.0	0.928652400866645	1.0	0.0	0.0	1.0	0.928652400866645	1.0	0.0	0.0										
 MSIpath	panel200	novel_somatic	novel_somatic	30	0.2	0.6	mixed	50	sensitivity	1.0	1.0	0.928652400866645	1.0	0.0		1.0	0.928652400866645	1.0	0.0							1.0	1.0	1.0	0.9999999999999999	1.0
-MSIpath	panel200	rare_in_panel	rare_in_panel	30	0.0	0	mixed	50	FPR	1.0	1.0	0.928652400866645	1.0	0.0	0.0	1.0	0.928652400866645	1.0	0.0	0.0										
+MSIpath	panel200	rare_in_panel	rare_in_panel	30	0.0	0	mixed	50	FPR	1.0	0.44	0.311622	0.576940	0.0	0.0	0.44	0.311622	0.576940	0.0	0.0										
 MSIsensor-pro	model_common	allele_imbalance	allele_imbalance	30	0.0	0	mixed	50	FPR	1.0	0.04	0.011038884327620152	0.1346009068750665	0.0	0.96	0.04	0.011038884327620152	0.1346009068750665	0.0	0.96										
 MSIsensor-pro	model_common	common_normal	N	30	0.0	0	mixed	50	FPR	1.0	0.0	0.0	0.07134759913335506	0.0	1.0	0.0	0.0	0.07134759913335506	0.0	1.0										
 MSIsensor-pro	model_common	novel_normal	novel_normal	30	0.0	0	mixed	50	FPR	1.0	0.96	0.8653990931249335	0.9889611156723798	0.0	0.04	0.96	0.8653990931249335	0.9889611156723798	0.0	0.04										
