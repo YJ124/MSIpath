@@ -23,8 +23,6 @@ Data conventions:
 * Ranking metrics use scored samples only. The AUPRC field stores average
   precision, not trapezoidal integration of an interpolated precision-recall
   curve. Bootstrap intervals are copied from the frozen input tables.
-* Rare and novel inherited-normal edits retain the flanking SNP background:
-  these engineered stress tests do not estimate population-wide false positives.
 * Full-panel normal modelling changes allele support and weights jointly.
 * Exact STR fragments count filtered paired-fragment observations, not unique
   original molecules. Their sample identities and callable-locus counts are
