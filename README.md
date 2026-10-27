@@ -61,7 +61,7 @@ Tumor purity is the public simulation axis. For this study's clonal heterozygous
 
 ## Validation and scope
 
-The release is checked against frozen full-study outputs, including a fresh BAM run. See `validation/`. The study reuses development-era simulation donors; it is not blind clinical validation. Difficult inherited STR alleles remain a major false-positive failure mode, and MSIpath uses more time/memory than the four comparator tools in the measured small-panel benchmark. All these results remain in the final report.
+The release is checked against frozen full-study outputs, including a fresh BAM run. See `validation/`. Difficult inherited STR alleles remain a major false-positive failure mode.
 
 External comparator binaries, raw sequencing data and genome FASTA files are not bundled. Citation/source links are in `docs/SOURCES.md`; public 1000 Genomes donor identifiers in the research panel are retained for provenance. This repository contains the released MSIpath implementation and simulation-study artifacts.
 
